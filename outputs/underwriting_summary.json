@@ -1,0 +1,84 @@
+{
+  "run_at": "2026-11-13T00:11:14.470390",
+  "hurdle": 0.12,
+  "assets": {
+    "HYD-OLD-001": {
+      "asset_id": "HYD-OLD-001",
+      "name": "The Asaf Jah Haveli",
+      "verdict": "CONDITIONAL GO (lever-dependent)",
+      "npv_base": -11649122.669067442,
+      "irr_base": 0.08993900460705229,
+      "npv_levers": 17302700.126006924,
+      "irr_levers": 0.16720408409252396,
+      "hard_capex": 63800000.0,
+      "soft_capex": 12725000.0,
+      "contingency": 6380000.0,
+      "working_capital": 10000000.0,
+      "capex_base": 92905000.0,
+      "capex_levers": 83335000.0,
+      "breakeven_occ": 0.4690683490235385,
+      "target_occupancy": 0.7,
+      "ebitda_y1": 13861843.75,
+      "margin_y1": 0.34041594720079815,
+      "mkt_adr": 10148.055555555555,
+      "mkt_occ": 0.6730277777777777,
+      "revpar_premium": -0.12883355249174422,
+      "critical_path_days": 185,
+      "dealbreakers": [
+        "Telangana Fire NOC"
+      ],
+      "interpretation": "binding statutory constraint: Telangana Fire NOC; base case fails 12% hurdle; levers (tourism subsidy + rent-free fit-out + theming-driven ADR) flip it positive; margin of safety 23.1 pts of occupancy"
+    },
+    "GOA-VIL-002": {
+      "asset_id": "GOA-VIL-002",
+      "name": "Casa Fontainhas",
+      "verdict": "CONDITIONAL GO (lever-dependent)",
+      "npv_base": -15671706.131177582,
+      "irr_base": 0.061012358452376736,
+      "npv_levers": 5028328.791263108,
+      "irr_levers": 0.13993022386513698,
+      "hard_capex": 43600000.0,
+      "soft_capex": 9007352.94117647,
+      "contingency": 4360000.0,
+      "working_capital": 8000000.0,
+      "capex_base": 64967352.941176474,
+      "capex_levers": 58427352.941176474,
+      "breakeven_occ": 0.5197312247095074,
+      "target_occupancy": 0.68,
+      "ebitda_y1": 8090732.000000004,
+      "margin_y1": 0.27861223028024007,
+      "mkt_adr": 8628.125,
+      "mkt_occ": 0.5982083333333335,
+      "revpar_premium": 0.0276249223726015,
+      "critical_path_days": 195,
+      "dealbreakers": [],
+      "interpretation": "base case fails 12% hurdle; levers (tourism subsidy + rent-free fit-out + theming-driven ADR) flip it positive; margin of safety 16.0 pts of occupancy"
+    }
+  },
+  "ranking": [
+    {
+      "rank": 1,
+      "asset_id": "HYD-OLD-001",
+      "name": "The Asaf Jah Haveli",
+      "verdict": "CONDITIONAL GO (lever-dependent)",
+      "npv_base": -11649122.669067442,
+      "npv_levers": 17302700.126006924,
+      "irr_levers": 0.16720408409252396,
+      "capex_base": 92905000.0,
+      "breakeven_occ": 0.4690683490235385,
+      "dealbreaker_count": 1
+    },
+    {
+      "rank": 2,
+      "asset_id": "GOA-VIL-002",
+      "name": "Casa Fontainhas",
+      "verdict": "CONDITIONAL GO (lever-dependent)",
+      "npv_base": -15671706.131177582,
+      "npv_levers": 5028328.791263108,
+      "irr_levers": 0.13993022386513698,
+      "capex_base": 64967352.941176474,
+      "breakeven_occ": 0.5197312247095074,
+      "dealbreaker_count": 0
+    }
+  ]
+}

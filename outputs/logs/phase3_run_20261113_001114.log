@@ -1,0 +1,29 @@
+==============================================================================
+ASSET-HOSPITALITY-MANAGEMENT | PORTFOLIO UNDERWRITING ENGINE | PHASE 3
+Run: 2026-11-13 00:11:14 | Hurdle rate: 12%
+==============================================================================
+
+--- HYD-OLD-001 | The Asaf Jah Haveli ---
+VERDICT: CONDITIONAL GO (lever-dependent)
+NPV @12%: base Rs -1.16 Cr | levered Rs +1.73 Cr | IRR levered 16.7%
+Capex: hard Rs 6.38 Cr + soft Rs 1.27 Cr + contingency Rs 0.64 Cr + WC Rs 1.00 Cr = Rs 9.29 Cr (levered Rs 8.33 Cr)
+Compset ADR Rs 10,148 @ 67.3% | RevPAR premium -12.9%
+Y1 EBITDA Rs 1.39 Cr (34.0% margin) | break-even occ 46.9% vs target 70%
+Licensing critical path: 185 days | dealbreakers: ['Telangana Fire NOC']
+READ: binding statutory constraint: Telangana Fire NOC; base case fails 12% hurdle; levers (tourism subsidy + rent-free fit-out + theming-driven ADR) flip it positive; margin of safety 23.1 pts of occupancy
+
+--- GOA-VIL-002 | Casa Fontainhas ---
+VERDICT: CONDITIONAL GO (lever-dependent)
+NPV @12%: base Rs -1.57 Cr | levered Rs +0.50 Cr | IRR levered 14.0%
+Capex: hard Rs 4.36 Cr + soft Rs 0.90 Cr + contingency Rs 0.44 Cr + WC Rs 0.80 Cr = Rs 6.50 Cr (levered Rs 5.84 Cr)
+Compset ADR Rs 8,628 @ 59.8% | RevPAR premium +2.8%
+Y1 EBITDA Rs 0.81 Cr (27.9% margin) | break-even occ 52.0% vs target 68%
+Licensing critical path: 195 days | dealbreakers: none
+READ: base case fails 12% hurdle; levers (tourism subsidy + rent-free fit-out + theming-driven ADR) flip it positive; margin of safety 16.0 pts of occupancy
+
+--- PORTFOLIO RANKING (by levered NPV) ---
+ rank    asset_id                name                          verdict      npv_base   npv_levers  irr_levers   capex_base  breakeven_occ  dealbreaker_count
+    1 HYD-OLD-001 The Asaf Jah Haveli CONDITIONAL GO (lever-dependent) -1.164912e+07 1.730270e+07    0.167204 9.290500e+07       0.469068                  1
+    2 GOA-VIL-002     Casa Fontainhas CONDITIONAL GO (lever-dependent) -1.567171e+07 5.028329e+06    0.139930 6.496735e+07       0.519731                  0
+
+[exports] pnl_*.csv, sensitivity_*.csv, asset_ranking.csv, underwriting_summary.json -> /Users/nileshsrivastav/Asset-Hospitality-Management/outputs
