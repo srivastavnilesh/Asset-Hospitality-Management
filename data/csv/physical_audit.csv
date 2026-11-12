@@ -1,0 +1,13 @@
+asset_id,zone,element,condition,issue,capex_inr,heritage_certified
+HYD-OLD-001,Main Courtyard,Timber roof trusses,Critical,Termite damage ~30% beams,8500000,True
+HYD-OLD-001,Guest Wings,Plumbing (15 en-suites),Poor,Legacy lead pipes; full re-pipe,4800000,False
+HYD-OLD-001,Facade,Lime plaster & jharokhas,Fair,Heritage-certified restoration,6200000,True
+HYD-OLD-001,Electrical,LT panel 30kW->90kW,Critical,AC + kitchen load upgrade,3800000,False
+HYD-OLD-001,Interiors,FF&E bespoke Nizam-era,N/A,Thematic sourcing via local artisans,29500000,True
+HYD-OLD-001,MEP,"HVAC, kitchen, laundry",N/A,New installation,11000000,False
+GOA-VIL-002,Roof,Mangalore tiles + timber rafters,Critical,Monsoon ingress; rafter rot,7500000,True
+GOA-VIL-002,Guest Wings,Plumbing (12 en-suites),Fair,Partial re-pipe + pressure boosting,3200000,False
+GOA-VIL-002,Facade,Ochre plaster & azulejos panels,Fair,Conservation-grade repaint,4800000,True
+GOA-VIL-002,Electrical,LT panel 25kW->70kW,Poor,AC + kitchen load upgrade,2600000,False
+GOA-VIL-002,Interiors,FF&E Indo-Portuguese,N/A,Antique sourcing via local dealers,18000000,True
+GOA-VIL-002,MEP,"HVAC, kitchen, laundry",N/A,New installation,7500000,False

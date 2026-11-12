@@ -1,0 +1,11 @@
+asset_id,phase,months,spend_pct
+HYD-OLD-001,P0 Statutory & design,M1-M4,0.12
+HYD-OLD-001,P1 Structural & facade,M3-M7,0.28
+HYD-OLD-001,P2 MEP & plumbing,M5-M9,0.22
+HYD-OLD-001,P3 Interiors & FF&E,M8-M12,0.3
+HYD-OLD-001,P4 Pre-opening & soft launch,M11-M13,0.08
+GOA-VIL-002,P0 Statutory & design,M1-M4,0.12
+GOA-VIL-002,P1 Structural & facade,M3-M7,0.28
+GOA-VIL-002,P2 MEP & plumbing,M5-M9,0.22
+GOA-VIL-002,P3 Interiors & FF&E,M8-M12,0.3
+GOA-VIL-002,P4 Pre-opening & soft launch,M11-M13,0.08

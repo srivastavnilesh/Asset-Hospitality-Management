@@ -1,0 +1,3 @@
+asset_id,name,location,built_year,total_sqft,keys,lease_years,monthly_rent_y1,heritage_grade,setback_ft,fire_req_ft,target_adr,target_occupancy
+HYD-OLD-001,The Asaf Jah Haveli,"Purani Haveli, Old City, Hyderabad",1904,8500.0,15,9,450000.0,Grade IIB,8.0,15.0,8500.0,0.7
+GOA-VIL-002,Casa Fontainhas,"Fontainhas, Panaji, Goa",1892,6200.0,12,9,380000.0,Goa Heritage (Portuguese-era),12.0,12.0,7800.0,0.68

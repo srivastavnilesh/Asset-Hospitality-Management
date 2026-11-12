@@ -1,0 +1,145 @@
+asset_id,comp_id,comp_name,month,adr_inr,occupancy_pct
+HYD-OLD-001,C1,Taj Falaknuma (luxury proxy),2025-01,22029,90.1
+HYD-OLD-001,C1,Taj Falaknuma (luxury proxy),2025-02,21753,91.4
+HYD-OLD-001,C1,Taj Falaknuma (luxury proxy),2025-03,18288,79.8
+HYD-OLD-001,C1,Taj Falaknuma (luxury proxy),2025-04,16342,68.2
+HYD-OLD-001,C1,Taj Falaknuma (luxury proxy),2025-05,15162,62.9
+HYD-OLD-001,C1,Taj Falaknuma (luxury proxy),2025-06,16139,67.3
+HYD-OLD-001,C1,Taj Falaknuma (luxury proxy),2025-07,16682,71.8
+HYD-OLD-001,C1,Taj Falaknuma (luxury proxy),2025-08,17258,70.5
+HYD-OLD-001,C1,Taj Falaknuma (luxury proxy),2025-09,17769,72.7
+HYD-OLD-001,C1,Taj Falaknuma (luxury proxy),2025-10,19936,81.8
+HYD-OLD-001,C1,Taj Falaknuma (luxury proxy),2025-11,20605,86.2
+HYD-OLD-001,C1,Taj Falaknuma (luxury proxy),2025-12,23014,93.3
+HYD-OLD-001,C1,Taj Falaknuma (luxury proxy),2026-01,21549,91.4
+HYD-OLD-001,C1,Taj Falaknuma (luxury proxy),2026-02,21614,90.4
+HYD-OLD-001,C1,Taj Falaknuma (luxury proxy),2026-03,19665,82.6
+HYD-OLD-001,C1,Taj Falaknuma (luxury proxy),2026-04,17325,68.1
+HYD-OLD-001,C1,Taj Falaknuma (luxury proxy),2026-05,14936,62.9
+HYD-OLD-001,C1,Taj Falaknuma (luxury proxy),2026-06,16015,67.8
+HYD-OLD-001,C1,Taj Falaknuma (luxury proxy),2026-07,16593,69.0
+HYD-OLD-001,C1,Taj Falaknuma (luxury proxy),2026-08,16599,72.7
+HYD-OLD-001,C1,Taj Falaknuma (luxury proxy),2026-09,17966,74.9
+HYD-OLD-001,C1,Taj Falaknuma (luxury proxy),2026-10,19037,82.3
+HYD-OLD-001,C1,Taj Falaknuma (luxury proxy),2026-11,20792,87.7
+HYD-OLD-001,C1,Taj Falaknuma (luxury proxy),2026-12,22780,94.0
+HYD-OLD-001,C2,Boutique Haveli Charminar,2025-01,8669,76.8
+HYD-OLD-001,C2,Boutique Haveli Charminar,2025-02,8351,75.7
+HYD-OLD-001,C2,Boutique Haveli Charminar,2025-03,7229,67.8
+HYD-OLD-001,C2,Boutique Haveli Charminar,2025-04,6246,56.5
+HYD-OLD-001,C2,Boutique Haveli Charminar,2025-05,5855,54.9
+HYD-OLD-001,C2,Boutique Haveli Charminar,2025-06,5961,56.3
+HYD-OLD-001,C2,Boutique Haveli Charminar,2025-07,6152,58.1
+HYD-OLD-001,C2,Boutique Haveli Charminar,2025-08,6656,60.5
+HYD-OLD-001,C2,Boutique Haveli Charminar,2025-09,6985,62.7
+HYD-OLD-001,C2,Boutique Haveli Charminar,2025-10,7480,67.6
+HYD-OLD-001,C2,Boutique Haveli Charminar,2025-11,8271,72.5
+HYD-OLD-001,C2,Boutique Haveli Charminar,2025-12,8309,76.2
+HYD-OLD-001,C2,Boutique Haveli Charminar,2026-01,8261,77.5
+HYD-OLD-001,C2,Boutique Haveli Charminar,2026-02,8315,75.8
+HYD-OLD-001,C2,Boutique Haveli Charminar,2026-03,7463,68.5
+HYD-OLD-001,C2,Boutique Haveli Charminar,2026-04,6454,56.8
+HYD-OLD-001,C2,Boutique Haveli Charminar,2026-05,5984,52.6
+HYD-OLD-001,C2,Boutique Haveli Charminar,2026-06,6053,54.8
+HYD-OLD-001,C2,Boutique Haveli Charminar,2026-07,6247,59.1
+HYD-OLD-001,C2,Boutique Haveli Charminar,2026-08,6530,59.8
+HYD-OLD-001,C2,Boutique Haveli Charminar,2026-09,6938,62.3
+HYD-OLD-001,C2,Boutique Haveli Charminar,2026-10,7710,68.1
+HYD-OLD-001,C2,Boutique Haveli Charminar,2026-11,7961,72.7
+HYD-OLD-001,C2,Boutique Haveli Charminar,2026-12,8202,75.7
+HYD-OLD-001,C3,Premium Airbnb Old City,2025-01,5099,67.1
+HYD-OLD-001,C3,Premium Airbnb Old City,2025-02,5237,65.5
+HYD-OLD-001,C3,Premium Airbnb Old City,2025-03,4671,62.5
+HYD-OLD-001,C3,Premium Airbnb Old City,2025-04,3917,51.8
+HYD-OLD-001,C3,Premium Airbnb Old City,2025-05,3586,47.4
+HYD-OLD-001,C3,Premium Airbnb Old City,2025-06,3715,49.0
+HYD-OLD-001,C3,Premium Airbnb Old City,2025-07,4152,50.4
+HYD-OLD-001,C3,Premium Airbnb Old City,2025-08,4193,53.6
+HYD-OLD-001,C3,Premium Airbnb Old City,2025-09,4198,53.5
+HYD-OLD-001,C3,Premium Airbnb Old City,2025-10,4735,60.3
+HYD-OLD-001,C3,Premium Airbnb Old City,2025-11,5075,65.0
+HYD-OLD-001,C3,Premium Airbnb Old City,2025-12,5659,69.3
+HYD-OLD-001,C3,Premium Airbnb Old City,2026-01,5146,68.7
+HYD-OLD-001,C3,Premium Airbnb Old City,2026-02,5209,68.5
+HYD-OLD-001,C3,Premium Airbnb Old City,2026-03,4843,61.3
+HYD-OLD-001,C3,Premium Airbnb Old City,2026-04,4133,49.8
+HYD-OLD-001,C3,Premium Airbnb Old City,2026-05,3619,46.7
+HYD-OLD-001,C3,Premium Airbnb Old City,2026-06,3780,47.9
+HYD-OLD-001,C3,Premium Airbnb Old City,2026-07,4127,52.0
+HYD-OLD-001,C3,Premium Airbnb Old City,2026-08,3957,52.3
+HYD-OLD-001,C3,Premium Airbnb Old City,2026-09,4315,56.0
+HYD-OLD-001,C3,Premium Airbnb Old City,2026-10,5008,64.4
+HYD-OLD-001,C3,Premium Airbnb Old City,2026-11,5102,63.7
+HYD-OLD-001,C3,Premium Airbnb Old City,2026-12,5054,70.0
+GOA-VIL-002,C1,Taj Fort Aguada (luxury proxy),2025-01,20926,95.4
+GOA-VIL-002,C1,Taj Fort Aguada (luxury proxy),2025-02,17816,81.2
+GOA-VIL-002,C1,Taj Fort Aguada (luxury proxy),2025-03,16176,70.5
+GOA-VIL-002,C1,Taj Fort Aguada (luxury proxy),2025-04,14779,65.2
+GOA-VIL-002,C1,Taj Fort Aguada (luxury proxy),2025-05,11753,55.0
+GOA-VIL-002,C1,Taj Fort Aguada (luxury proxy),2025-06,9884,46.0
+GOA-VIL-002,C1,Taj Fort Aguada (luxury proxy),2025-07,10766,49.0
+GOA-VIL-002,C1,Taj Fort Aguada (luxury proxy),2025-08,11376,50.6
+GOA-VIL-002,C1,Taj Fort Aguada (luxury proxy),2025-09,13618,62.0
+GOA-VIL-002,C1,Taj Fort Aguada (luxury proxy),2025-10,17553,72.8
+GOA-VIL-002,C1,Taj Fort Aguada (luxury proxy),2025-11,19452,83.6
+GOA-VIL-002,C1,Taj Fort Aguada (luxury proxy),2025-12,22897,97.0
+GOA-VIL-002,C1,Taj Fort Aguada (luxury proxy),2026-01,21349,96.1
+GOA-VIL-002,C1,Taj Fort Aguada (luxury proxy),2026-02,17793,82.1
+GOA-VIL-002,C1,Taj Fort Aguada (luxury proxy),2026-03,15461,68.6
+GOA-VIL-002,C1,Taj Fort Aguada (luxury proxy),2026-04,14280,66.8
+GOA-VIL-002,C1,Taj Fort Aguada (luxury proxy),2026-05,12961,55.7
+GOA-VIL-002,C1,Taj Fort Aguada (luxury proxy),2026-06,9864,44.7
+GOA-VIL-002,C1,Taj Fort Aguada (luxury proxy),2026-07,11145,48.3
+GOA-VIL-002,C1,Taj Fort Aguada (luxury proxy),2026-08,11407,52.9
+GOA-VIL-002,C1,Taj Fort Aguada (luxury proxy),2026-09,14205,64.8
+GOA-VIL-002,C1,Taj Fort Aguada (luxury proxy),2026-10,16590,72.2
+GOA-VIL-002,C1,Taj Fort Aguada (luxury proxy),2026-11,18196,87.9
+GOA-VIL-002,C1,Taj Fort Aguada (luxury proxy),2026-12,23426,97.0
+GOA-VIL-002,C2,Heritage boutique Panaji,2025-01,8738,83.0
+GOA-VIL-002,C2,Heritage boutique Panaji,2025-02,7231,67.0
+GOA-VIL-002,C2,Heritage boutique Panaji,2025-03,6584,58.4
+GOA-VIL-002,C2,Heritage boutique Panaji,2025-04,6119,55.6
+GOA-VIL-002,C2,Heritage boutique Panaji,2025-05,5151,47.8
+GOA-VIL-002,C2,Heritage boutique Panaji,2025-06,4091,37.7
+GOA-VIL-002,C2,Heritage boutique Panaji,2025-07,4148,40.3
+GOA-VIL-002,C2,Heritage boutique Panaji,2025-08,4639,42.3
+GOA-VIL-002,C2,Heritage boutique Panaji,2025-09,5627,52.3
+GOA-VIL-002,C2,Heritage boutique Panaji,2025-10,6986,60.4
+GOA-VIL-002,C2,Heritage boutique Panaji,2025-11,7827,70.6
+GOA-VIL-002,C2,Heritage boutique Panaji,2025-12,9089,85.4
+GOA-VIL-002,C2,Heritage boutique Panaji,2026-01,8982,82.8
+GOA-VIL-002,C2,Heritage boutique Panaji,2026-02,7445,67.3
+GOA-VIL-002,C2,Heritage boutique Panaji,2026-03,6416,59.2
+GOA-VIL-002,C2,Heritage boutique Panaji,2026-04,6152,54.6
+GOA-VIL-002,C2,Heritage boutique Panaji,2026-05,5113,46.7
+GOA-VIL-002,C2,Heritage boutique Panaji,2026-06,4388,38.6
+GOA-VIL-002,C2,Heritage boutique Panaji,2026-07,4306,40.1
+GOA-VIL-002,C2,Heritage boutique Panaji,2026-08,4551,42.9
+GOA-VIL-002,C2,Heritage boutique Panaji,2026-09,5834,54.0
+GOA-VIL-002,C2,Heritage boutique Panaji,2026-10,6651,61.2
+GOA-VIL-002,C2,Heritage boutique Panaji,2026-11,7316,71.1
+GOA-VIL-002,C2,Heritage boutique Panaji,2026-12,8887,82.8
+GOA-VIL-002,C3,Premium Airbnb Fontainhas,2025-01,5316,71.4
+GOA-VIL-002,C3,Premium Airbnb Fontainhas,2025-02,4376,58.7
+GOA-VIL-002,C3,Premium Airbnb Fontainhas,2025-03,4244,50.9
+GOA-VIL-002,C3,Premium Airbnb Fontainhas,2025-04,3655,51.3
+GOA-VIL-002,C3,Premium Airbnb Fontainhas,2025-05,3424,40.3
+GOA-VIL-002,C3,Premium Airbnb Fontainhas,2025-06,2492,33.2
+GOA-VIL-002,C3,Premium Airbnb Fontainhas,2025-07,2871,35.0
+GOA-VIL-002,C3,Premium Airbnb Fontainhas,2025-08,2918,39.1
+GOA-VIL-002,C3,Premium Airbnb Fontainhas,2025-09,3616,46.4
+GOA-VIL-002,C3,Premium Airbnb Fontainhas,2025-10,4183,53.5
+GOA-VIL-002,C3,Premium Airbnb Fontainhas,2025-11,4795,62.9
+GOA-VIL-002,C3,Premium Airbnb Fontainhas,2025-12,5709,73.4
+GOA-VIL-002,C3,Premium Airbnb Fontainhas,2026-01,5537,72.9
+GOA-VIL-002,C3,Premium Airbnb Fontainhas,2026-02,4641,60.9
+GOA-VIL-002,C3,Premium Airbnb Fontainhas,2026-03,3996,52.3
+GOA-VIL-002,C3,Premium Airbnb Fontainhas,2026-04,3698,49.8
+GOA-VIL-002,C3,Premium Airbnb Fontainhas,2026-05,3140,43.0
+GOA-VIL-002,C3,Premium Airbnb Fontainhas,2026-06,2638,33.3
+GOA-VIL-002,C3,Premium Airbnb Fontainhas,2026-07,2667,35.0
+GOA-VIL-002,C3,Premium Airbnb Fontainhas,2026-08,3045,38.7
+GOA-VIL-002,C3,Premium Airbnb Fontainhas,2026-09,3621,45.1
+GOA-VIL-002,C3,Premium Airbnb Fontainhas,2026-10,4316,55.5
+GOA-VIL-002,C3,Premium Airbnb Fontainhas,2026-11,4669,62.7
+GOA-VIL-002,C3,Premium Airbnb Fontainhas,2026-12,5714,74.3

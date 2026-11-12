@@ -1,0 +1,9 @@
+asset_id,req,status,risk,cost_inr,days,dealbreaker,note
+HYD-OLD-001,GHMC change of land use (res->comm),Pending,HIGH,350000,90,False,
+HYD-OLD-001,Telangana Fire NOC,FAIL,CRITICAL,1800000,45,True,Setback 8ft vs 15ft tender access; external cantilevered steel egress + waiver required
+HYD-OLD-001,Heritage Conservation Committee,Approved,LOW,50000,30,False,
+HYD-OLD-001,FSSAI central kitchen,Not started,MEDIUM,25000,20,False,
+GOA-VIL-002,TCP change of use (res->commercial),Pending,HIGH,300000,75,False,
+GOA-VIL-002,Goa Fire NOC,Pending,MEDIUM,400000,40,False,
+GOA-VIL-002,IPCHC facade consent (Portuguese-era),Pending,HIGH,200000,60,False,Alteration restrictions on azulejos & balcao
+GOA-VIL-002,FSSAI central kitchen,Not started,MEDIUM,25000,20,False,
