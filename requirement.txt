@@ -2,3 +2,4 @@ pandas>=2.2
 numpy>=1.26
 numpy-financial>=1.0.0
 streamlit>=1.37
+pytest
