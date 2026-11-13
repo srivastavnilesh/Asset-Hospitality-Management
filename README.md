@@ -35,18 +35,6 @@ deals on identical terms.
 
 ---
 
-## Architecture
-
-```mermaid
-graph TD
-    A[Seeded portfolio generator: 2 assets, 6 tables] --> B[(SQLite + CSV store)]
-    B --> C[Underwriting engine: NPV, IRR, break-even, sensitivity, verdict]
-    C --> D[Founder dossier, markdown]
-    C --> E[Tableau-ready exports, 9 CSVs]
-    C --> F[Streamlit decision dashboard]
-    G[Pytest invariants, 5 tests] -. locks the maths .-> C
-
-
 ## Methodology
 
 The engine operates in four stages:
@@ -113,3 +101,15 @@ founder hurdle rate.
 ├── app/streamlit_app.py            Interactive decision dashboard
 ├── tests/test_engine.py            5 invariants
 └── outputs/                        Committed artefacts and run logs
+
+
+## Architecture
+
+```mermaid
+graph TD
+    A[Seeded portfolio generator: 2 assets, 6 tables] --> B[(SQLite + CSV store)]
+    B --> C[Underwriting engine: NPV, IRR, break-even, sensitivity, verdict]
+    C --> D[Founder dossier, markdown]
+    C --> E[Tableau-ready exports, 9 CSVs]
+    C --> F[Streamlit decision dashboard]
+    G[Pytest invariants, 5 tests] -. locks the maths .-> C
