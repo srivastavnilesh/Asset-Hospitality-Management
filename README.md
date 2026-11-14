@@ -57,23 +57,37 @@ and the verdict is assigned by comparing base and levered cases.
 pytest -q
 
 Five invariants lock the engine's mathematics:
+
 Break-even occupancy is strictly below target occupancy
+
 Total Capex is greater than hard Capex
+
 Verdict is one of three engineered states
+
 Levered NPV strictly improves base NPV
+
 Seeded portfolio contains at least one statutory dealbreaker
 
 ## Quickstart
 
 git clone https://github.com/srivastavnilesh/Asset-Hospitality-Management.git
+
 cd Asset-Hospitality-Management
+
 python3 -m venv .venv && source .venv/bin/activate
+
 pip install -r requirements.txt
+
 python src/data/generate_dataset.py
+
 python src/analytics/underwriting_engine.py
+
 python src/analytics/report_builder.py
+
 python src/analytics/tableau_export.py
+
 pytest -q
+
 streamlit run app/streamlit_app.py
 
 ## Provenance
@@ -90,7 +104,9 @@ active CPWD Clause 7.1 waterproofing bond.
 The hospitality layer adds industry-standard unit economics: RevPAR compset indexing, OTA
 commission load, FF&E reserve, rent escalation, and lease-horizon discounted cash flow at the
 founder hurdle rate.
+
 </details>
+
 
 ## Asset-Hospitality-Management/
 ├── config.py                       Assumptions, single source of truth
