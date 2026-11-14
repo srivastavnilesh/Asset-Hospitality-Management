@@ -3,7 +3,11 @@
 Acquisition and Underwriting OS for boutique hospitality assets.
 Screen fast. Underwrite deep. Decide with evidence.
 
-Live application: https://asset-hospitality-management-eflwbrd5jtd7yyydnwktr8.streamlit.app
+<p align="center">
+  <a href=["(https://asset-hospitality-management-eflwbrd5jtd7yyydnwktr8.streamlit.app)">
+    <img src="https://img.shields.io/badge/_View_Live_Interactive_Dashboard-Click_Here-0077B5?style=for-the-badge&logo=tableau&logoColor=white" alt="Live Dashboard">
+  </a>
+</p>
 Sample dossier: outputs/underwriting_dossier.md
 
 ![Underwriting dashboard](dashboard_hero.png)
