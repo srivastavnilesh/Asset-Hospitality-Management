@@ -108,21 +108,6 @@ founder hurdle rate.
 </details>
 
 
-## Asset-Hospitality-Management/
-├── config.py                       Assumptions, single source of truth
-├── requirements.txt                Pinned dependencies
-├── dashboard_hero.png              Live product screenshot
-├── src/
-│   ├── data/generate_dataset.py    Seeded portfolio generator
-│   └── analytics/
-│       ├── underwriting_engine.py  NPV, IRR, break-even, verdict
-│       ├── report_builder.py       Founder dossier
-│       └── tableau_export.py       9 flattened CSVs
-├── app/streamlit_app.py            Interactive decision dashboard
-├── tests/test_engine.py            5 invariants
-└── outputs/                        Committed artefacts and run logs
-
-
 ## Architecture
 
 ```mermaid
